@@ -16,7 +16,7 @@ One such technology works by modifying genes in embryos that carry a genetic dis
 
 ## How Does CRISPR Work?
 
-CRISPR is based off of a modified method that bacteria use to kill invading viruses. A guide RNA directs a Cas9 protein through the cell until a sequence of DNA is found that matches the sequence programmed into the guide RNA. From here the Cas9 protein cuts the gene, causing a break in the double helix. This break is then repaired with the insertion of a donor gene. [CRISPR/Cas9](https://ep.bmj.com/content/101/4/213)
+CRISPR is based off of a modified method that bacteria use to kill invading viruses. A guide RNA directs a Cas9 protein through the cell until a sequence of DNA is found that matches the sequence programmed into the guide RNA. From here the Cas9 protein cuts the gene, causing a break in the double helix. This break is then repaired with the insertion of a donor gene. ![CRISPR/Cas9](https://ep.bmj.com/content/101/4/213)
 
 
 
