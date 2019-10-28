@@ -1,5 +1,7 @@
 ## Should Genes Be Modified?
 
+![Image of CRISPR technology](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/4QYZ.png/1024px-4QYZ.png)
+
 A scientist has performed research on twin girls which has the potential to reduce their lifespan.
 
 An [article](https://www.theguardian.com/science/2019/jun/03/gene-mutation-protect-hiv-raises-risk-early-death?utm_term=RWRpdG9yaWFsX0xhYk5vdGVzLTE5MDYwNw%3D%3D&utm_source=esp&utm_medium=Email&utm_campaign=LabNotes&CMP=labnotes_email) in The Guardian describes an account of a gene editing technique known as CRISPR, which was used to remove a gene to prevent the twin girls from being infected by the HIV virus. 
