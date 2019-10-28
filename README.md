@@ -1,6 +1,9 @@
-## Welcome to GitHub Pages
+## Should Genes Be Modified?
 
-You can use the [editor on GitHub](https://github.com/ellenconaghan/CRISPR/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A scientist has performed research on twin girls which has the potential to reduce their lifespan.
+
+An [article](https://www.theguardian.com/science/2019/jun/03/gene-mutation-protect-hiv-raises-risk-early-death?utm_term=RWRpdG9yaWFsX0xhYk5vdGVzLTE5MDYwNw%3D%3D&utm_source=esp&utm_medium=Email&utm_campaign=LabNotes&CMP=labnotes_email) in The Guardian describes an account of a gene editing technique known as CRISPR, which was used to remove a gene to prevent the twin girls from being infected by the HIV virus. 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
