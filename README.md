@@ -18,8 +18,7 @@ One such technology works by modifying genes in embryos that carry a genetic dis
 
 CRISPR is based off of a modified method that bacteria use to kill invading viruses. A guide RNA directs a Cas9 protein through the cell until a sequence of DNA is found that matches the sequence programmed into the guide RNA. From here the Cas9 protein cuts the gene, causing a break in the double helix. This break is then repaired with the insertion of a donor gene. 
 
-![CRISPR/Cas9](https://www.abc.net.au/news/science/2016-04-07/crispr-gene-editing-technology-explainer/7217782#lightbox-share-7238280)
-
+![CRISPR/Cas9](https://upload.wikimedia.org/wikipedia/commons/f/f4/15_Hegasy_Cas9_DNA_Tool_Wiki_E_CCBYSA.png)
 
 
 
