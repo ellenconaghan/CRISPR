@@ -28,4 +28,12 @@ An [article](https://link.springer.com/article/10.1007/s11948-017-9931-1) was re
 
 The case seems to be that scientists either perform procedures based on CRISPR technology and wait to see what the side effects could be, or they ignore the ground breaking discoveries that have been made in the field of gene editing and find a different way to cure genetic diseases. 
 
+References 
 
+Guttinger, S., 2018, ‘Trust in Science: CRISPR-Cas9 and the Ban on Human Germline Editing,’ Science & Engineering Ethics, vol. 24, no. 4, pp 1077-1096.
+
+Hanlon, M., 2015, ‘Once we start editing our genes, where do we stop?’ The Telegraph. 
+
+Normile, D., 2018, ‘Researcher who created CRISPR twins defends his work but leaves many questions unanswered’, Science. 
+
+Zehr, E.P., 2019, Human Gene Editing: Great Power, Great Responsibility’, Scientific American.
